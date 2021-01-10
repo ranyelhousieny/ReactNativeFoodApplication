@@ -1,7 +1,12 @@
+#keys
+keys.js
+keys
 # OSX
 #
 .DS_Store
-
+ios
+ios/
+android
 # Xcode
 #
 build/
@@ -62,3 +67,11 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+.expo/
+
+ios
+ios/
+ios/*
+android
+android/
+

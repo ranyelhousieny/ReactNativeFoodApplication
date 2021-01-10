@@ -1,4 +1,5 @@
 import { registerRootComponent } from 'expo';
+import Redux from 'redux';
 
 import App from './App';
 
