@@ -1,0 +1,66 @@
+{
+ 
+    "articles": [
+      {
+        "id": "Scrum and Building high performing Self-Managed teams",
+        "title": "Scrum and Building high performing Self-Managed teams",
+        "link": "https://www.linkedin.com/pulse/building-high-performing-self-managed-teams-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/",
+        "image": "https://rany.tk/static/PSM_Certificate-f5f9b033e8d6df7dbdddc3db883b4d73.png"
+      },
+      {
+        "id": "static-websites-cicd-using-gitlab-rany-elhousieny",
+        "title": "Gatsby Static websites CI/CD using Gitlab",
+        "link": "https://www.linkedin.com/pulse/static-websites-cicd-using-gitlab-rany-elhousieny/",
+        "image": "https://rany.tk/static/react_gatsby_gitlab.png"
+      },
+      {
+        "id": "elasticsearch-jest-client-dropwizard-rany-elhousieny",
+        "title": "Elasticsearch Jest-client in Dropwizard",
+        "link": "https://www.linkedin.com/pulse/elasticsearch-jest-client-dropwizard-rany-elhousieny/",
+        "image": "https://rany.tk/static/Dropwizard.png"
+      },
+      {
+        "id": "building-appsync-graphql-using-aws-amplify-rany-elhousieny",
+        "title": "Building AppSync GraphQL using AWS Amplify",
+        "link": "https://www.linkedin.com/pulse/building-appsync-graphql-using-aws-amplify-rany-elhousieny/",
+        "image": "https://rany.tk/static/Amplify_AppSync.png"
+      },
+      {
+        "id": "from-rest-serverless-graphqlappsync-progressive-rany-elhousieny",
+        "title": "Serverless GraphQL (AppSync) Progressive Migration from REST",
+        "link": "https://www.linkedin.com/pulse/from-rest-serverless-graphqlappsync-progressive-rany-elhousieny/",
+        "image": "https://rany.tk/static/AppSync.png"
+      },
+      {
+        "id": "cold-starts-serverless-functions-rany-elhousieny",
+        "title": "Cold Starts in Serverless Functions",
+        "link": "https://www.linkedin.com/pulse/cold-starts-serverless-functions-rany-elhousieny/",
+        "image": "https://rany.tk/static/coldstart.png"
+      },
+      {
+        "id": "time-rest-apis-graphql-rise-rany-elhousieny",
+        "title": "Is it time for REST APIs to rest and GraphQL to rise?",
+        "link": "https://www.linkedin.com/pulse/time-rest-apis-graphql-rise-rany-elhousieny/",
+        "image": "https://rany.tk/static/graphql_rest.png"
+      },
+      {
+        "id": "serverless-system-design-future-rany-elhousieny",
+        "title": "Is Serverless system design the future?",
+        "link": "https://www.linkedin.com/pulse/serverless-system-design-future-rany-elhousieny/",
+        "image": "https://rany.tk/static/serverless.png"
+      },
+      {
+        "id": "how-do-stars-become-rany-elhousieny",
+        "title": "Do not go to work to work, ...",
+        "link": "https://www.linkedin.com/pulse/how-do-stars-become-rany-elhousieny/",
+        "image": "https://rany.tk/static/hero.png"
+      },
+      {
+        "id": "building-high-performing-teams",
+        "title": "Building High Performing Teams",
+        "link": "https://www.linkedin.com/posts/ranyelhousieny_forming-storming-norming-and-performing-activity-6633074072207134720-AZOE",
+        "image": "https://rany.tk/static/hero.png"
+      }
+    ]
+  
+}
